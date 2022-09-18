@@ -465,6 +465,7 @@ img {
 .join-text {
   text-transform: uppercase;
   color: var(--primary-white-color);
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   margin-bottom: 20px;
